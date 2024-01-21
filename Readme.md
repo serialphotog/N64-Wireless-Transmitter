@@ -1,0 +1,1 @@
+This is a work-in-progress, experimental firmware for an Android Uno to read input from an N64 controller. The eventual goal of this is to have a home-made wireless transmitter for the N64 controller that interfaces with the console itself. 
